@@ -1,5 +1,7 @@
 # Redis for SA:MP
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8aamsuq8avwoeca4/branch/master?svg=true)](https://ci.appveyor.com/project/TemaSM/pawn-redis/branch/master)
+
 A powerful Redis plugin granting access to a fast in-memory database and
 asynchronous message channels between other programs.
 
